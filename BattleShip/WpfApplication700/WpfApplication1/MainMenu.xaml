@@ -1,0 +1,33 @@
+﻿<Window x:Class="WpfApplication1.MainMenu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainMenu" Height="425" Width="1000"
+          ResizeMode="NoResize">
+    
+    <Window.Resources>
+        <Image x:Key="menu" x:Shared="False" Source="battleshipMenu.png" />
+    </Window.Resources>
+    <Grid>
+
+        <Grid.Background>
+            <ImageBrush Stretch="None" 
+                                ImageSource="battleshipMenu.png" 
+                                AlignmentY="Center" 
+                                AlignmentX="Center"/>
+        </Grid.Background>
+
+        <!--
+        <Grid.Background>
+          <ImageBrush Stretch="UniformToFill" 
+                             ImageSource="C:\Users\Renuchan\Desktop\menuPic for BAttleship\mainPic.jpg" 
+                                AlignmentY="Center" 
+                                AlignmentX="Center"/>
+            
+           
+        </Grid.Background>  -->
+        <Button x:Name="EasyGame" Content="Regular" HorizontalAlignment="Left" Margin="53,183,0,0" VerticalAlignment="Top" Width="157" Height="44" Click="beginGame"/>
+        <Button x:Name="HardGame" Content="Hardened" HorizontalAlignment="Left" Margin="53,248,0,0" VerticalAlignment="Top" Width="157" Height="41" Click="beginGame"/>
+        <TextBox x:Name="NameInputBox" HorizontalAlignment="Left" Height="23" Margin="53,136,0,0" TextWrapping="Wrap" Text="Please enter your name" VerticalAlignment="Top" Width="157"/>
+
+    </Grid>
+</Window>

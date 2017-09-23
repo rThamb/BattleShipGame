@@ -1,0 +1,394 @@
+C:\Users\Tommy\Desktop\ui\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\Tommy\Desktop\ui\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Tommy\Desktop\ui\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Tommy\Desktop\ui\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Tommy\Desktop\ui\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\Tommy\Desktop\ui\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Tommy\Desktop\ui\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Tommy\Desktop\ui\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\Tommy\Desktop\ui\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\Tommy\Desktop\ui\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\Tommy\Desktop\ui\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Tommy\Desktop\ui\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Tommy\Desktop\ui\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Tommy\Desktop\ui\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Renuchan\Desktop\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\Renuchan\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Renuchan\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Renuchan\Desktop\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Renuchan\Desktop\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Renuchan\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Renuchan\Desktop\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\Renuchan\Desktop\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Renuchan\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Renuchan\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\Renuchan\Desktop\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\Renuchan\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\Renuchan\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Renuchan\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\1437641\Desktop\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\1437641\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\1437641\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\1437641\Desktop\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\1437641\Desktop\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\1437641\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\1437641\Desktop\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\1437641\Desktop\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\1437641\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\1437641\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\1437641\Desktop\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\1437641\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\1437641\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\1437641\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\1435162\Desktop\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\1435162\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\1435162\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\1435162\Desktop\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\1435162\Desktop\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\1435162\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\1435162\Desktop\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\1435162\Desktop\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\1435162\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\1435162\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\1435162\Desktop\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\1435162\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\1435162\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\1435162\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+G:\WpfApplication55\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+G:\WpfApplication55\WpfApplication1\obj\Debug\WpfApplication1.exe
+G:\WpfApplication55\WpfApplication1\obj\Debug\WpfApplication1.pdb
+G:\WpfApplication55\WpfApplication1\bin\Debug\WpfApplication1.exe
+G:\WpfApplication55\WpfApplication1\bin\Debug\WpfApplication1.pdb
+G:\WpfApplication55\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+G:\WpfApplication55\WpfApplication1\obj\Debug\MainWindow.g.cs
+G:\WpfApplication55\WpfApplication1\obj\Debug\App.g.cs
+G:\WpfApplication55\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+G:\WpfApplication55\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+G:\WpfApplication55\WpfApplication1\obj\Debug\MainWindow.baml
+G:\WpfApplication55\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+G:\WpfApplication55\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+G:\WpfApplication55\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Renuchan\Desktop\C# BattleShip dec 4\WpfApplication55\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\Renuchan\Desktop\C# BattleShip dec 4\WpfApplication55\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Renuchan\Desktop\C# BattleShip dec 4\WpfApplication55\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Renuchan\Desktop\C# BattleShip dec 4\WpfApplication55\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Renuchan\Desktop\C# BattleShip dec 4\WpfApplication55\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Renuchan\Desktop\C# BattleShip dec 4\WpfApplication55\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Renuchan\Desktop\C# BattleShip dec 4\WpfApplication55\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\Renuchan\Desktop\C# BattleShip dec 4\WpfApplication55\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Renuchan\Desktop\C# BattleShip dec 4\WpfApplication55\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Renuchan\Desktop\C# BattleShip dec 4\WpfApplication55\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\Renuchan\Desktop\C# BattleShip dec 4\WpfApplication55\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\Renuchan\Desktop\C# BattleShip dec 4\WpfApplication55\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\Renuchan\Desktop\C# BattleShip dec 4\WpfApplication55\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Renuchan\Desktop\C# BattleShip dec 4\WpfApplication55\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Renuchan\Desktop\C# BattleShip dec 4\WpfApplication55\WpfApplication1\obj\Debug\MainMenu.baml
+C:\Users\Renuchan\Desktop\C# BattleShip dec 4\WpfApplication55\WpfApplication1\obj\Debug\MainMenu.g.cs
+C:\Users\Tommy\Desktop\New folder (8)\WpfApplication55\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\Tommy\Desktop\New folder (8)\WpfApplication55\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Tommy\Desktop\New folder (8)\WpfApplication55\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Tommy\Desktop\New folder (8)\WpfApplication55\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Tommy\Desktop\New folder (8)\WpfApplication55\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Tommy\Desktop\New folder (8)\WpfApplication55\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Tommy\Desktop\New folder (8)\WpfApplication55\WpfApplication1\obj\Debug\MainMenu.baml
+C:\Users\Tommy\Desktop\New folder (8)\WpfApplication55\WpfApplication1\obj\Debug\MainMenu.g.cs
+C:\Users\Tommy\Desktop\New folder (8)\WpfApplication55\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\Tommy\Desktop\New folder (8)\WpfApplication55\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Tommy\Desktop\New folder (8)\WpfApplication55\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Tommy\Desktop\New folder (8)\WpfApplication55\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\Tommy\Desktop\New folder (8)\WpfApplication55\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\Tommy\Desktop\New folder (8)\WpfApplication55\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\Tommy\Desktop\New folder (8)\WpfApplication55\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Tommy\Desktop\New folder (8)\WpfApplication55\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Tommy\Desktop\New folder (8)\WpfApplication545\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\Tommy\Desktop\New folder (8)\WpfApplication545\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Tommy\Desktop\New folder (8)\WpfApplication545\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Tommy\Desktop\New folder (8)\WpfApplication545\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Tommy\Desktop\New folder (8)\WpfApplication545\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Tommy\Desktop\New folder (8)\WpfApplication545\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Tommy\Desktop\New folder (8)\WpfApplication545\WpfApplication1\obj\Debug\MainMenu.baml
+C:\Users\Tommy\Desktop\New folder (8)\WpfApplication545\WpfApplication1\obj\Debug\MainMenu.g.cs
+C:\Users\Tommy\Desktop\New folder (8)\WpfApplication545\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\Tommy\Desktop\New folder (8)\WpfApplication545\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Tommy\Desktop\New folder (8)\WpfApplication545\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Tommy\Desktop\New folder (8)\WpfApplication545\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\Tommy\Desktop\New folder (8)\WpfApplication545\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\Tommy\Desktop\New folder (8)\WpfApplication545\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\Tommy\Desktop\New folder (8)\WpfApplication545\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Tommy\Desktop\New folder (8)\WpfApplication545\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Tommy\Desktop\New folder (8)\WpfApplication666\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\Tommy\Desktop\New folder (8)\WpfApplication666\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Tommy\Desktop\New folder (8)\WpfApplication666\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\JacobThomas\Desktop\WpfApplication666\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\JacobThomas\Desktop\WpfApplication666\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\JacobThomas\Desktop\WpfApplication666\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\JacobThomas\Desktop\WpfApplication666\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\JacobThomas\Desktop\WpfApplication666\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\JacobThomas\Desktop\WpfApplication666\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\JacobThomas\Desktop\WpfApplication666\WpfApplication1\obj\Debug\MainMenu.baml
+C:\Users\JacobThomas\Desktop\WpfApplication666\WpfApplication1\obj\Debug\MainMenu.g.cs
+C:\Users\JacobThomas\Desktop\WpfApplication666\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\JacobThomas\Desktop\WpfApplication666\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\JacobThomas\Desktop\WpfApplication666\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\JacobThomas\Desktop\WpfApplication666\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\JacobThomas\Desktop\WpfApplication666\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\JacobThomas\Desktop\WpfApplication666\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\JacobThomas\Desktop\WpfApplication666\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\JacobThomas\Desktop\WpfApplication666\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+I:\WpfApplication666\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+I:\WpfApplication666\WpfApplication1\obj\Debug\WpfApplication1.exe
+I:\WpfApplication666\WpfApplication1\obj\Debug\WpfApplication1.pdb
+I:\WpfApplication666\WpfApplication1\bin\Debug\WpfApplication1.exe
+I:\WpfApplication666\WpfApplication1\bin\Debug\WpfApplication1.pdb
+I:\WpfApplication666\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+I:\WpfApplication666\WpfApplication1\obj\Debug\MainMenu.baml
+I:\WpfApplication666\WpfApplication1\obj\Debug\MainMenu.g.cs
+I:\WpfApplication666\WpfApplication1\obj\Debug\MainWindow.g.cs
+I:\WpfApplication666\WpfApplication1\obj\Debug\App.g.cs
+I:\WpfApplication666\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+I:\WpfApplication666\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+I:\WpfApplication666\WpfApplication1\obj\Debug\MainWindow.baml
+I:\WpfApplication666\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+I:\WpfApplication666\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+I:\WpfApplication666\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\1437641\Desktop\WpfApplication666\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\1437641\Desktop\WpfApplication666\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\1437641\Desktop\WpfApplication666\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\1437641\Desktop\WpfApplication666\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\1437641\Desktop\WpfApplication666\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\1437641\Desktop\WpfApplication666\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\1437641\Desktop\WpfApplication666\WpfApplication1\obj\Debug\MainMenu.baml
+C:\Users\1437641\Desktop\WpfApplication666\WpfApplication1\obj\Debug\MainMenu.g.cs
+C:\Users\1437641\Desktop\WpfApplication666\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\1437641\Desktop\WpfApplication666\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\1437641\Desktop\WpfApplication666\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\1437641\Desktop\WpfApplication666\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\1437641\Desktop\WpfApplication666\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\1437641\Desktop\WpfApplication666\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\1437641\Desktop\WpfApplication666\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\1437641\Desktop\WpfApplication666\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\1437641\Desktop\WpfApplication666\WpfApplication1\obj\Debug\PlayerHistory.baml
+C:\Users\1437641\Desktop\WpfApplication666\WpfApplication1\obj\Debug\PlayerHistory.g.cs
+C:\Users\Renuchan\Desktop\WpfApplication667\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\Renuchan\Desktop\WpfApplication667\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Renuchan\Desktop\WpfApplication667\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Renuchan\Desktop\WpfApplication667\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Renuchan\Desktop\WpfApplication667\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Renuchan\Desktop\WpfApplication667\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Renuchan\Desktop\WpfApplication667\WpfApplication1\obj\Debug\MainMenu.baml
+C:\Users\Renuchan\Desktop\WpfApplication667\WpfApplication1\obj\Debug\PlayerHistory.baml
+C:\Users\Renuchan\Desktop\WpfApplication667\WpfApplication1\obj\Debug\MainMenu.g.cs
+C:\Users\Renuchan\Desktop\WpfApplication667\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\Renuchan\Desktop\WpfApplication667\WpfApplication1\obj\Debug\PlayerHistory.g.cs
+C:\Users\Renuchan\Desktop\WpfApplication667\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Renuchan\Desktop\WpfApplication667\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Renuchan\Desktop\WpfApplication667\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\Renuchan\Desktop\WpfApplication667\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\Renuchan\Desktop\WpfApplication667\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\Renuchan\Desktop\WpfApplication667\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Renuchan\Desktop\WpfApplication667\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\1435162\Desktop\Assemble everything\WpfApplication667\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\1435162\Desktop\Assemble everything\WpfApplication667\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\1435162\Desktop\Assemble everything\WpfApplication667\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\1435162\Desktop\Assemble everything\WpfApplication667\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\1435162\Desktop\Assemble everything\WpfApplication667\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\1435162\Desktop\Assemble everything\WpfApplication667\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\1435162\Desktop\Assemble everything\WpfApplication667\WpfApplication1\obj\Debug\MainMenu.baml
+C:\Users\1435162\Desktop\Assemble everything\WpfApplication667\WpfApplication1\obj\Debug\PlayerHistory.baml
+C:\Users\1435162\Desktop\Assemble everything\WpfApplication667\WpfApplication1\obj\Debug\MainMenu.g.cs
+C:\Users\1435162\Desktop\Assemble everything\WpfApplication667\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\1435162\Desktop\Assemble everything\WpfApplication667\WpfApplication1\obj\Debug\PlayerHistory.g.cs
+C:\Users\1435162\Desktop\Assemble everything\WpfApplication667\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\1435162\Desktop\Assemble everything\WpfApplication667\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\1435162\Desktop\Assemble everything\WpfApplication667\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\1435162\Desktop\Assemble everything\WpfApplication667\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\1435162\Desktop\Assemble everything\WpfApplication667\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\1435162\Desktop\Assemble everything\WpfApplication667\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\1435162\Desktop\Assemble everything\WpfApplication667\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+G:\WpfApplication667\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+G:\WpfApplication667\WpfApplication1\obj\Debug\WpfApplication1.exe
+G:\WpfApplication667\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Tommy\Desktop\New folder (8)\WpfApplication667\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\Tommy\Desktop\New folder (8)\WpfApplication667\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Tommy\Desktop\New folder (8)\WpfApplication667\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Tommy\Desktop\New folder (8)\WpfApplication667\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Tommy\Desktop\New folder (8)\WpfApplication667\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Tommy\Desktop\New folder (8)\WpfApplication667\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Tommy\Desktop\New folder (8)\WpfApplication667\WpfApplication1\obj\Debug\MainMenu.baml
+C:\Users\Tommy\Desktop\New folder (8)\WpfApplication667\WpfApplication1\obj\Debug\PlayerHistory.baml
+C:\Users\Tommy\Desktop\New folder (8)\WpfApplication667\WpfApplication1\obj\Debug\MainMenu.g.cs
+C:\Users\Tommy\Desktop\New folder (8)\WpfApplication667\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\Tommy\Desktop\New folder (8)\WpfApplication667\WpfApplication1\obj\Debug\PlayerHistory.g.cs
+C:\Users\Tommy\Desktop\New folder (8)\WpfApplication667\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Tommy\Desktop\New folder (8)\WpfApplication667\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Tommy\Desktop\New folder (8)\WpfApplication667\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\Tommy\Desktop\New folder (8)\WpfApplication667\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\Tommy\Desktop\New folder (8)\WpfApplication667\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\Tommy\Desktop\New folder (8)\WpfApplication667\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Tommy\Desktop\New folder (8)\WpfApplication667\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+G:\WpfApplication668\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+G:\WpfApplication668\WpfApplication1\obj\Debug\WpfApplication1.exe
+G:\WpfApplication668\WpfApplication1\obj\Debug\WpfApplication1.pdb
+G:\WpfApplication668\WpfApplication1\bin\Debug\WpfApplication1.exe
+G:\WpfApplication668\WpfApplication1\bin\Debug\WpfApplication1.pdb
+G:\WpfApplication668\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+G:\WpfApplication668\WpfApplication1\obj\Debug\MainMenu.baml
+G:\WpfApplication668\WpfApplication1\obj\Debug\PlayerHistory.baml
+G:\WpfApplication668\WpfApplication1\obj\Debug\MainMenu.g.cs
+G:\WpfApplication668\WpfApplication1\obj\Debug\MainWindow.g.cs
+G:\WpfApplication668\WpfApplication1\obj\Debug\PlayerHistory.g.cs
+G:\WpfApplication668\WpfApplication1\obj\Debug\App.g.cs
+G:\WpfApplication668\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+G:\WpfApplication668\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+G:\WpfApplication668\WpfApplication1\obj\Debug\MainWindow.baml
+G:\WpfApplication668\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+G:\WpfApplication668\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+G:\WpfApplication668\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+U:\WpfApplication668\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+U:\WpfApplication668\WpfApplication1\obj\Debug\WpfApplication1.exe
+U:\WpfApplication668\WpfApplication1\obj\Debug\WpfApplication1.pdb
+U:\WpfApplication668\WpfApplication1\bin\Debug\WpfApplication1.exe
+U:\WpfApplication668\WpfApplication1\bin\Debug\WpfApplication1.pdb
+U:\WpfApplication668\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+U:\WpfApplication668\WpfApplication1\obj\Debug\MainMenu.baml
+U:\WpfApplication668\WpfApplication1\obj\Debug\PlayerHistory.baml
+U:\WpfApplication668\WpfApplication1\obj\Debug\MainMenu.g.cs
+U:\WpfApplication668\WpfApplication1\obj\Debug\MainWindow.g.cs
+U:\WpfApplication668\WpfApplication1\obj\Debug\PlayerHistory.g.cs
+U:\WpfApplication668\WpfApplication1\obj\Debug\App.g.cs
+U:\WpfApplication668\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+U:\WpfApplication668\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+U:\WpfApplication668\WpfApplication1\obj\Debug\MainWindow.baml
+U:\WpfApplication668\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+U:\WpfApplication668\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+U:\WpfApplication668\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\1439510\Desktop\WpfApplication668\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\1439510\Desktop\WpfApplication668\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\1439510\Desktop\WpfApplication668\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\1439510\Desktop\WpfApplication668\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\1439510\Desktop\WpfApplication668\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\1439510\Desktop\WpfApplication668\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\1439510\Desktop\WpfApplication668\WpfApplication1\obj\Debug\MainMenu.baml
+C:\Users\1439510\Desktop\WpfApplication668\WpfApplication1\obj\Debug\PlayerHistory.baml
+C:\Users\1439510\Desktop\WpfApplication668\WpfApplication1\obj\Debug\MainMenu.g.cs
+C:\Users\1439510\Desktop\WpfApplication668\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\1439510\Desktop\WpfApplication668\WpfApplication1\obj\Debug\PlayerHistory.g.cs
+C:\Users\1439510\Desktop\WpfApplication668\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\1439510\Desktop\WpfApplication668\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\1439510\Desktop\WpfApplication668\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\1439510\Desktop\WpfApplication668\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\1439510\Desktop\WpfApplication668\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\1439510\Desktop\WpfApplication668\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\1439510\Desktop\WpfApplication668\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\1435162\Desktop\WpfApplication668\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\1435162\Desktop\WpfApplication668\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\1435162\Desktop\WpfApplication668\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\1435162\Desktop\WpfApplication668\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\1435162\Desktop\WpfApplication668\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\1435162\Desktop\WpfApplication668\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\1435162\Desktop\WpfApplication668\WpfApplication1\obj\Debug\MainMenu.baml
+C:\Users\1435162\Desktop\WpfApplication668\WpfApplication1\obj\Debug\PlayerHistory.baml
+C:\Users\1435162\Desktop\WpfApplication668\WpfApplication1\obj\Debug\MainMenu.g.cs
+C:\Users\1435162\Desktop\WpfApplication668\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\1435162\Desktop\WpfApplication668\WpfApplication1\obj\Debug\PlayerHistory.g.cs
+C:\Users\1435162\Desktop\WpfApplication668\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\1435162\Desktop\WpfApplication668\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\1435162\Desktop\WpfApplication668\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\1435162\Desktop\WpfApplication668\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\1435162\Desktop\WpfApplication668\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\1435162\Desktop\WpfApplication668\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\1435162\Desktop\WpfApplication668\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\1435162\Desktop\WpfApplication669\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\1435162\Desktop\WpfApplication669\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\1435162\Desktop\WpfApplication669\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\1435162\Desktop\WpfApplication669\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\1435162\Desktop\WpfApplication669\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\1435162\Desktop\WpfApplication669\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\1435162\Desktop\WpfApplication669\WpfApplication1\obj\Debug\MainMenu.baml
+C:\Users\1435162\Desktop\WpfApplication669\WpfApplication1\obj\Debug\PlayerHistory.baml
+C:\Users\1435162\Desktop\WpfApplication669\WpfApplication1\obj\Debug\MainMenu.g.cs
+C:\Users\1435162\Desktop\WpfApplication669\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\1435162\Desktop\WpfApplication669\WpfApplication1\obj\Debug\PlayerHistory.g.cs
+C:\Users\1435162\Desktop\WpfApplication669\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\1435162\Desktop\WpfApplication669\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\1435162\Desktop\WpfApplication669\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\1435162\Desktop\WpfApplication669\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\1435162\Desktop\WpfApplication669\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\1435162\Desktop\WpfApplication669\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\1435162\Desktop\WpfApplication669\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\1435162\Desktop\WpfApplication700\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\1435162\Desktop\WpfApplication700\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\1435162\Desktop\WpfApplication700\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\1435162\Desktop\back up\WpfApplication700\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\1435162\Desktop\back up\WpfApplication700\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\1435162\Desktop\back up\WpfApplication700\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\1435162\Desktop\back up\WpfApplication700\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\1435162\Desktop\back up\WpfApplication700\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\1435162\Desktop\back up\WpfApplication700\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\1435162\Desktop\back up\WpfApplication700\WpfApplication1\obj\Debug\MainMenu.baml
+C:\Users\1435162\Desktop\back up\WpfApplication700\WpfApplication1\obj\Debug\PlayerHistory.baml
+C:\Users\1435162\Desktop\back up\WpfApplication700\WpfApplication1\obj\Debug\MainMenu.g.cs
+C:\Users\1435162\Desktop\back up\WpfApplication700\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\1435162\Desktop\back up\WpfApplication700\WpfApplication1\obj\Debug\PlayerHistory.g.cs
+C:\Users\1435162\Desktop\back up\WpfApplication700\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\1435162\Desktop\back up\WpfApplication700\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\1435162\Desktop\back up\WpfApplication700\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\1435162\Desktop\back up\WpfApplication700\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\1435162\Desktop\back up\WpfApplication700\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\1435162\Desktop\back up\WpfApplication700\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\1435162\Desktop\back up\WpfApplication700\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\JacobThomas\Desktop\WpfApplication700\WpfApplication700\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\JacobThomas\Desktop\WpfApplication700\WpfApplication700\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\JacobThomas\Desktop\WpfApplication700\WpfApplication700\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\JacobThomas\Desktop\WpfApplication700\WpfApplication700\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\JacobThomas\Desktop\WpfApplication700\WpfApplication700\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\JacobThomas\Desktop\WpfApplication700\WpfApplication700\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\JacobThomas\Desktop\WpfApplication700\WpfApplication700\WpfApplication1\obj\Debug\MainMenu.baml
+C:\Users\JacobThomas\Desktop\WpfApplication700\WpfApplication700\WpfApplication1\obj\Debug\PlayerHistory.baml
+C:\Users\JacobThomas\Desktop\WpfApplication700\WpfApplication700\WpfApplication1\obj\Debug\MainMenu.g.cs
+C:\Users\JacobThomas\Desktop\WpfApplication700\WpfApplication700\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\JacobThomas\Desktop\WpfApplication700\WpfApplication700\WpfApplication1\obj\Debug\PlayerHistory.g.cs
+C:\Users\JacobThomas\Desktop\WpfApplication700\WpfApplication700\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\JacobThomas\Desktop\WpfApplication700\WpfApplication700\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\JacobThomas\Desktop\WpfApplication700\WpfApplication700\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\JacobThomas\Desktop\WpfApplication700\WpfApplication700\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\JacobThomas\Desktop\WpfApplication700\WpfApplication700\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\JacobThomas\Desktop\WpfApplication700\WpfApplication700\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\JacobThomas\Desktop\WpfApplication700\WpfApplication700\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Renuchan\Desktop\bs\WpfApplication700\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\Renuchan\Desktop\bs\WpfApplication700\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Renuchan\Desktop\bs\WpfApplication700\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Renuchan\Desktop\bs\WpfApplication700\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Renuchan\Desktop\bs\WpfApplication700\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Renuchan\Desktop\bs\WpfApplication700\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Renuchan\Desktop\bs\WpfApplication700\WpfApplication1\obj\Debug\MainMenu.baml
+C:\Users\Renuchan\Desktop\bs\WpfApplication700\WpfApplication1\obj\Debug\PlayerHistory.baml
+C:\Users\Renuchan\Desktop\bs\WpfApplication700\WpfApplication1\obj\Debug\MainMenu.g.cs
+C:\Users\Renuchan\Desktop\bs\WpfApplication700\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\Renuchan\Desktop\bs\WpfApplication700\WpfApplication1\obj\Debug\PlayerHistory.g.cs
+C:\Users\Renuchan\Desktop\bs\WpfApplication700\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Renuchan\Desktop\bs\WpfApplication700\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Renuchan\Desktop\bs\WpfApplication700\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\Renuchan\Desktop\bs\WpfApplication700\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\Renuchan\Desktop\bs\WpfApplication700\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\Renuchan\Desktop\bs\WpfApplication700\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Renuchan\Desktop\bs\WpfApplication700\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+I:\Completed BattleShip Project Ren,Tom,Jac\WpfApplication700\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+I:\Completed BattleShip Project Ren,Tom,Jac\WpfApplication700\WpfApplication1\obj\Debug\WpfApplication1.exe
+I:\Completed BattleShip Project Ren,Tom,Jac\WpfApplication700\WpfApplication1\obj\Debug\WpfApplication1.pdb
+I:\Completed BattleShip Project Ren,Tom,Jac\WpfApplication700\WpfApplication1\bin\Debug\WpfApplication1.exe
+I:\Completed BattleShip Project Ren,Tom,Jac\WpfApplication700\WpfApplication1\bin\Debug\WpfApplication1.pdb
+I:\Completed BattleShip Project Ren,Tom,Jac\WpfApplication700\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+I:\Completed BattleShip Project Ren,Tom,Jac\WpfApplication700\WpfApplication1\obj\Debug\MainMenu.baml
+I:\Completed BattleShip Project Ren,Tom,Jac\WpfApplication700\WpfApplication1\obj\Debug\MainMenu.g.cs
+I:\Completed BattleShip Project Ren,Tom,Jac\WpfApplication700\WpfApplication1\obj\Debug\MainWindow.g.cs
+I:\Completed BattleShip Project Ren,Tom,Jac\WpfApplication700\WpfApplication1\obj\Debug\App.g.cs
+I:\Completed BattleShip Project Ren,Tom,Jac\WpfApplication700\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+I:\Completed BattleShip Project Ren,Tom,Jac\WpfApplication700\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+I:\Completed BattleShip Project Ren,Tom,Jac\WpfApplication700\WpfApplication1\obj\Debug\MainWindow.baml
+I:\Completed BattleShip Project Ren,Tom,Jac\WpfApplication700\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+I:\Completed BattleShip Project Ren,Tom,Jac\WpfApplication700\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+I:\Completed BattleShip Project Ren,Tom,Jac\WpfApplication700\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Renuchan\Documents\Developement\C#\Labs\BattleShip\WpfApplication700\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\Renuchan\Documents\Developement\C#\Labs\BattleShip\WpfApplication700\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Renuchan\Documents\Developement\C#\Labs\BattleShip\WpfApplication700\WpfApplication1\obj\Debug\WpfApplication1.pdb
